@@ -6,4 +6,4 @@ have learned a bit of C++, i will try to experience the way a OS is created from
 have something you can actually use.
 Version Changelog:
 V1.0: the ISO File can be emulated and displays some Text. 
-V1.0: coming soon
+V1.1: Coming soon...

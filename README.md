@@ -1,4 +1,5 @@
 # PhilipOS
+a in Version = Alpha.
 I was always interested in how Operating Systems really work, so i decided to give it a shot.
 In this Project i am trying to build somewhat of an OS, it is my first time doing something like this,
 especially using assembly, but i am interested in trying out something new. Since i am a Java developer and i 

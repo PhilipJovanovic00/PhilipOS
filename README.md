@@ -5,5 +5,6 @@ especially using assembly, but i am interested in trying out something new. Sinc
 have learned a bit of C++, i will try to experience the way a OS is created from the Kernel, until you
 have something you can actually use.
 Version Changelog:
-V1.0: the ISO File can be emulated and displays some Text. 
-V1.1: Coming soon...
+V1.0a: the ISO File can be emulated and displays some Text. 
+V1.1a: Adapted System to work with 64 Bit.
+V1.2a: Coming Soon...
